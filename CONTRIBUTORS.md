@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Tanushree Mandal](https://github.com/tanumandal)
+- Place: Assam, India
+- Bio: Student at NIT Jamshedpur
+- GitHub: [tanumandal](https://github.com/tanumandal)
